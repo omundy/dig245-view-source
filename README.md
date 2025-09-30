@@ -178,7 +178,10 @@ See: https://omundy.github.io/console.love
 
 <details>
 <summary>Past examples</summary>
-  
+
+- 2025
+    [Matthew](https://matthewpearso.github.io/dig245-view-source/)
+    [Dmytro](https://dmku33.github.io/web-dev-view-source/)
 - 2023
     [Maria](https://mafajardo23.github.io/dig245-view-source/)
     [Richard](https://aequor29.github.io/dig245-view-source/)
