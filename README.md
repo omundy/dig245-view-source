@@ -118,7 +118,14 @@ Explain how your metaphor communicates the act of looking at source code
 [Poem (Think)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-think.html), 
 [After Gerhard Rühm](https://criticalwebdesign.github.io/book/02-view-source/examples/after-ruhm.html), 
 [Poem (Click)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-click.html), 
-[Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html) 
+[Poem (Chaos)](https://criticalwebdesign.github.io/book/02-view-source/examples/poem-chaos.html)
+- Examples of visual poetry 
+  - [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
+  - [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
+  - [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos)
+  - [Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes)
+  - other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
+  - [Robin Tomens](https://www.instagram.com/tomensart/)
 - Related projects (and tags [#poetry](https://criticalwebdesign.github.io/index#poetry) [#visual poetry](https://criticalwebdesign.github.io/index#visual-poetry) [#text](https://criticalwebdesign.github.io/index#text)) in the [Critical Web Design Index](https://criticalwebdesign.github.io/index/)...
   - Rafaël Rozendaal [abstractbrowsing.net](http://www.abstractbrowsing.net) (2014)
   - Ben Grosser [Safebook](https://bengrosser.com/projects/safebook/) (2018) 
@@ -127,6 +134,7 @@ Explain how your metaphor communicates the act of looking at source code
   - Ruth Lin [Web Experiments](https://ruthl.in/small-web-tests)
   - Nick Montfort [Progress](https://thehtml.review/01/progress.html) (2022) 
   - Nick Montfort and (Stephanie Strickland) [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/index.html) (2011)
+
 
 
 
@@ -147,14 +155,6 @@ Explain how your metaphor communicates the act of looking at source code
 
 
 
-### Other examples of visual poetry 
-
-- [Gerhard Rühm](https://www.google.com/search?q=Gerhard+R%C3%BChm+concrete+poem)
-- [Endless Constellations: On Women in Concrete Poetry 1959–1979](https://www.google.com/search?q=Endless+Constellations%3A+On+Women+in+Concrete+Poetry+1959%E2%80%931979)
-- [Augusto de Campos](https://www.google.com/search?q=augusto+de+campos+concrete+poetry) + [more](https://www.theguardian.com/artanddesign/gallery/2017/apr/07/masterpieces-concrete-poetry-pictures-getty-center-ian-hamilton-finlay-augusto-campos)
-- [Guillaume Apollinaire](https://en.wikipedia.org/wiki/Calligrammes)
-- other works in this collection on [UbuWeb](https://www.ubu.com/vp) 
-- [Robin Tomens](https://www.instagram.com/tomensart/)
 
 
 
