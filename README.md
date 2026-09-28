@@ -180,6 +180,11 @@ See: https://omundy.github.io/console.love
 <details>
 <summary>Past examples</summary>
 
+- 2026
+    [Sophia](https://somajernik-gif.github.io/dig245-view-source/)
+    [Shannon](https://shhendrick24.github.io/dig245-view-source/)
+    [Ama](https://anmsmith-cmd.github.io/dig245-view-source/)
+    [Evan](https://evpfeil.github.io/dig245-view-source/)
 - 2025
     [Matthew](https://matthewpearso.github.io/dig245-view-source/)
     [Dmytro](https://dmku33.github.io/web-dev-view-source/)
